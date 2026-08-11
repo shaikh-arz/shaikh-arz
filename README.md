@@ -23,15 +23,40 @@ Hi! I'm **Mohd Ariz**, a passionate **Full Stack Developer** who loves building 
 
 I enjoy taking an idea, turning it into a working product, and continuously improving it with better code, better design and better performance.
 
-```js
-const mohdAriz = {
-    role: "Full Stack Developer",
-    username: "shaikh-arz",
-    passion: "Building for the Web",
-    mindset: "Learn → Build → Improve",
-    goal: "Become a better developer every day 🚀"
-};
-```
+# 👋 About Me
+
+I'm **Mohd Ariz**, a **Full Stack Developer** passionate about building modern and useful web applications.
+
+### 🚀 Currently Learning
+
+- Next.js
+- TypeScript
+- Backend Architecture
+- System Design
+
+### 💡 Interests
+
+- Web Development
+- APIs
+- UI/UX
+- Problem Solving
+
+### 🧠 My Mindset
+
+**Learn → Build → Improve → Repeat 🚀**
+
+### 🎯 Goal
+
+> Build products that people actually love to use.
+
+---
+
+## 📝 A little more about me
+
+- 💻 Passionate about Full Stack Web Development
+- 🌐 Interested in modern web technologies
+- 🧩 Love solving programming problems
+- 🚀 Always learning and building new projects
 
 ### ⚡ What I Love
 
