@@ -116,11 +116,8 @@ I'm **Mohd Ariz**, a **Full Stack Developer** passionate about building modern a
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=shaikh-arz&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=shaikh-arz&theme=tokyonight&hide_border=true" />
 </p>
-
----
-
 # 🎯 2026 Goals
 
 | Goal                               | Status         |
